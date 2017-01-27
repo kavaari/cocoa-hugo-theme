@@ -14,7 +14,7 @@ googleAnalytics     = "UA-123-45"
 
 [permalinks]
 fixed = ":title/"
-blog  = "blog/:slug/"
+blog  = "/"
 
 [params]
 author       = "Arthur Dent"
